@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1311-bioid
 x-kinRank: "8"
 x-alexaRank: "1177710"
 tags: Detection
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/bioid-web-services/apis.md
 specificationVersion: "0.14"
 apis: []

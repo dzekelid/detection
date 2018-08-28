@@ -1,0 +1,128 @@
+{
+	"name": "Streadata.io API Gallery - Detection",
+	"description": "This is a repository of detection APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/detection.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://detection.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "BioID Web Services",
+			"x-api-slug": "bioid-web-services",
+			"description": "BioID offers unique anonymous multimodal biometric authentication services for face recognition and voice recognition with strong privacy protection. Find relevant background information on periocular eye recognition and anti-spoofing liveness detectio...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1311-bioid-web-services.jpg",
+			"humanURL": "http://www.bioid.com/products/bws/apis.html",
+			"baseURL": "https:///",
+			"tags": "Detection",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/bioid-web-services/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LambdaLabs Face",
+			"x-api-slug": "lambdalabs-face",
+			"description": "High-powered machines built specifically for Deep Learning applications. Pre-built and configured with Deep Learning software like Theano, Torch, and CUDA.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1438-lambdalabs-face.jpg",
+			"humanURL": "http://api.lambdal.com/",
+			"baseURL": "https:///",
+			"tags": "Detection",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/lambdalabs-face/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ImageVision",
+			"x-api-slug": "imagevision",
+			"description": "Dont forget to press Like if you want to tag or comment any photos. Dran denken: Du mut den gefllt mir-Knopf klicken, wenn Du Fotos markieren, oder kommentieren mchtest.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2013-imagevision.jpg",
+			"humanURL": "http://imagevision.com/",
+			"baseURL": "https:///",
+			"tags": "Detection",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/imagevision/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Datumbox",
+			"x-api-slug": "datumbox",
+			"description": "Build quickly and easily Intelligent Applications by using the power of Machine Learning!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg",
+			"humanURL": "http://datumbox.com",
+			"baseURL": "https://api.datumbox.com/1.0/",
+			"tags": "Detection",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/datumbox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Shopify",
+			"x-api-slug": "shopify",
+			"description": "Shopify is a commerce platform that allows anyone to easily sell online at a retail location and everywhere in between. It offers a professional online storefront, a payment solution to accept credit cards, and the Shopify POS application to power retail sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png",
+			"humanURL": "https://www.shopify.com/",
+			"baseURL": "https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//",
+			"tags": "Detection",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/shopify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ParallelDots",
+			"x-api-slug": "paralleldots",
+			"description": "ParallelDots is one of the best applied AI research groups in the world. We work with enterprises globally to tackle challenging business problems and create the winners of tomorrow. We also provide AI consulting services to explore the what, why, how and who about deploying AI in businesses. Try-out our cutting edge text analysis APIs and join the community of 1,000+ global users. Contact us at contact@paralleldots.com and tell us about the challenging business problems that you are facing.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/paralleldots-logo.png",
+			"humanURL": "https://www.paralleldots.com/",
+			"baseURL": "https://apis.paralleldots.com//v3",
+			"tags": "Detection",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/paralleldots/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Detection",
+	"include": [
+		{
+			"name": "BioID Web Services",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/bioid-web-services/apis.yaml"
+		},
+		{
+			"name": "LambdaLabs Face",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/lambdalabs-face/apis.yaml"
+		},
+		{
+			"name": "ImageVision",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/imagevision/apis.yaml"
+		},
+		{
+			"name": "Datumbox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/datumbox/apis.yaml"
+		},
+		{
+			"name": "Shopify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/shopify/apis.yaml"
+		},
+		{
+			"name": "ParallelDots",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/detection/master/_listings/paralleldots/apis.yaml"
+		}
+	]
+}
